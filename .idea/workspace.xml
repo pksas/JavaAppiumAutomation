@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="833b9b50-6c0b-4b7f-8686-1113c9befdc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClassTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MainClassTest">
+    <configuration name="MainClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.testGetClassNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="testGetClassNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClassTest.testGetLocalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -50,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainClassTest" />
+        <item itemvalue="JUnit.MainClassTest.testGetClassNumber" />
         <item itemvalue="JUnit.MainClassTest.testGetLocalNumber" />
       </list>
     </recent_temporary>
@@ -84,22 +106,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584896727200" />
-    <state width="1875" height="283" key="GridCell.Tab.0.bottom" timestamp="1584896843938">
+    <state width="1875" height="283" key="GridCell.Tab.0.bottom" timestamp="1584902417239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="283" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584896843938" />
-    <state width="1875" height="283" key="GridCell.Tab.0.center" timestamp="1584896843938">
+    <state width="1875" height="283" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584902417239" />
+    <state width="1875" height="283" key="GridCell.Tab.0.center" timestamp="1584902417239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="283" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584896843938" />
-    <state width="1875" height="283" key="GridCell.Tab.0.left" timestamp="1584896843937">
+    <state width="1875" height="283" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584902417239" />
+    <state width="1875" height="283" key="GridCell.Tab.0.left" timestamp="1584902417239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="283" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584896843937" />
-    <state width="1875" height="283" key="GridCell.Tab.0.right" timestamp="1584896843938">
+    <state width="1875" height="283" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584902417239" />
+    <state width="1875" height="283" key="GridCell.Tab.0.right" timestamp="1584902417239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="283" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584896843938" />
+    <state width="1875" height="283" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584902417239" />
     <state x="460" y="162" key="SettingsEditor" timestamp="1584896739385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
