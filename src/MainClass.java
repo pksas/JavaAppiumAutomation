@@ -9,6 +9,6 @@ public class MainClass
 
     public int getClassNumber()
     {
-        return class_number;
+        return this.class_number;
     }
 }
